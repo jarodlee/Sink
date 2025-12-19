@@ -2,7 +2,7 @@ export default defineAppConfig({
   title: 'aLink',
   email: 'alink@lxj.ai',
   github: 'https://github.com/jarodlee/sink',
-  twitter: 'https://lxj.ai/t',
+  twitter: 'https://lxj.ai/x',
   telegram: 'https://lxj.ai/telegram',
   mastodon: 'https://lxj.ai/mastodon',
   blog: 'https://lxj.ai/blog',
